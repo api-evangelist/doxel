@@ -1,0 +1,73 @@
+aid: doxel
+name: Doxel
+description: >-
+  Doxel is a Menlo Park, California construction technology company providing
+  AI-powered observability and progress tracking for large capital projects.
+  Founded in 2015 by CEO Saurabh Ladha, the company combines 360-degree
+  reality capture (via Insta360 X5 hardware partnership) with computer vision
+  models that compare site video against BIM models to automatically quantify
+  work-in-place by trade, system, and stage. The platform layers a "rules of
+  credit" engine on top of those quantities to drive earned-value, schedule,
+  and budget analytics — including 3D Progress View, Production Rates,
+  Schedule (a visual Gantt replacement), Utilities Underground Tracking from
+  drone imagery, and Portfolio-level dashboards. Doxel uses advanced language
+  models to map schedule line items to physical progress and supports
+  Procore-style construction management workflows, with deployments across
+  data centers, healthcare, semiconductor fabs, and EV battery factories.
+  Doxel has raised approximately $57M from Insight Partners, Andreessen
+  Horowitz, and others, and counts 18 of the top 30 U.S. general contractors,
+  14 of the top 20 data center developers, and 3 of 4 hyperscalers as
+  customers. There is no public developer API, SDK, OpenAPI specification, or
+  GitHub organization — the platform is delivered as a managed SaaS
+  application at app.doxel.ai with hardware-assisted capture and enterprise
+  integrations arranged via direct engagement.
+type: Index
+position: Provider
+access: 3rd-Party
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Construction
+  - Construction Technology
+  - ConTech
+  - AI
+  - Computer Vision
+  - Reality Capture
+  - Progress Tracking
+  - BIM
+  - Building Information Modeling
+  - Earned Value
+  - Schedule Management
+  - Budget Tracking
+  - Capital Projects
+  - Data Centers
+  - Healthcare Construction
+  - Industrial Construction
+  - Drones
+  - 360 Cameras
+url: https://raw.githubusercontent.com/api-evangelist/doxel/refs/heads/main/apis.yml
+created: '2026-05-25'
+modified: '2026-05-25'
+specificationVersion: '0.20'
+apis: []
+common:
+  - type: Website
+    url: https://www.doxel.ai
+  - type: Product
+    url: https://www.doxel.ai/product
+  - type: Company
+    url: https://www.doxel.ai/company
+  - type: Resources
+    url: https://www.doxel.ai/resources
+  - type: Careers
+    url: https://www.doxel.ai/careers
+  - type: Contact
+    url: https://www.doxel.ai/contact
+  - type: Login
+    url: https://app.doxel.ai/auth/login
+  - type: Twitter
+    url: https://x.com/doxel_ai
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/doxel-sr-autonomous-inc.-/
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
