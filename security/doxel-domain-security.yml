@@ -1,0 +1,23 @@
+generated: '2026-07-11'
+method: probed
+source: live DNS/TLS/HTTP probes of apis.yml + OpenAPI hosts
+hosts:
+- host: www.doxel.ai
+  https: true
+  tls_version: TLSv1.3
+  cert_expires: Aug 17 08:57:03 2026 GMT
+  hsts: true
+  hsts_max_age: 31536000
+domains:
+- domain: doxel.ai
+  dnssec: false
+  caa:
+  - 0 issue "letsencrypt.org"
+  - 0 issue ";"
+  - 0 issue "amazonaws.com"
+  - 0 iodef "mailto:security@doxel.ai"
+  - 0 issue "pki.goog"
+  - 0 issue "awstrust.com"
+  spf: true
+  dmarc: true
+  dmarc_policy: quarantine
