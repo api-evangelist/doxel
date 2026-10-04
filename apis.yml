@@ -52,7 +52,7 @@ tags:
   - Construction Technology
   - ConTech
   - Artificial Intelligence
-  - Computer-Vision
+  - Computer Vision
   - Reality Capture
   - Progress Tracking
   - BIM
@@ -61,7 +61,7 @@ tags:
   - Schedule Management
   - Budget Tracking
   - Capital Projects
-  - Data-Center
+  - Data Center
   - Healthcare Construction
   - Industrial Construction
   - Drones
@@ -85,6 +85,8 @@ tags_raw:
   - Industrial Construction
   - Drones
   - 360 Cameras
+  - Computer-Vision
+  - Data-Center
 url: https://raw.githubusercontent.com/api-evangelist/doxel/refs/heads/main/apis.yml
 created: '2026-05-25'
 modified: '2026-05-25'
